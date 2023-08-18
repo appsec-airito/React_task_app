@@ -15,32 +15,11 @@
   ],
   "tasksManuallyListed": [
     {
-      "id": 1,
-      "destination": "Airport SNA",
-      "source": "From Corona home",
-      "day": "Aug 13th by 7:00 am",
-      "reminder": true
-    },
-    {
       "id": 2,
       "destination": "Home Munich",
       "source": "From saa airport",
       "day": "Aug 13th by 12:00 pm",
       "reminder": true
-    },
-    {
-      "id": 3,
-      "destination": "Munich St. Lucy Church",
-      "source": "From Home Munich",
-      "day": "Aug 13th by 5:30 pm",
-      "reminder": true
-    },
-    {
-      "id": 4,
-      "destination": "Home Munich",
-      "source": "Munich St. Lucy Church",
-      "day": "Aug 13th by 7:00 pm",
-      "reminder": false
     },
     {
       "text": "test",
@@ -49,14 +28,6 @@
       "day": "today",
       "reminder": true,
       "id": 5
-    },
-    {
-      "text": "test2",
-      "destination": "Burma",
-      "source": "Philipines",
-      "day": "Aug 18th 2023 by 6:00 am",
-      "reminder": false,
-      "id": 6
     }
   ]
 }
